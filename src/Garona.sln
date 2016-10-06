@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitrohGG.Garona", "NitrohGG.Garona\NitrohGG.Garona.csproj", "{6EBA1022-F64D-4049-9DC7-7DAAD4346374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitrohGG.Garona.Dtos", "NitrohGG.Garona.Dtos\NitrohGG.Garona.Dtos.csproj", "{89297802-3BDA-4F2E-897F-656E5E3C7597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitrohGG.Garona.Data", "NitrohGG.Garona.Data\NitrohGG.Garona.Data.csproj", "{A379AA5D-A011-4B6D-B217-B8788D83A5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitroh.GG.Garona.Domain", "Nitroh.GG.Garona.Domain\Nitroh.GG.Garona.Domain.csproj", "{5EA232BE-46E9-456A-96C6-20179F128758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitroh.GG.Garona.Services", "Nitroh.GG.Garona.Services\Nitroh.GG.Garona.Services.csproj", "{ECE50C18-CAA4-4750-9B20-C08FB18C450B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{756C21A2-7D9B-4128-9AFE-0C5CCD29D6EB}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionItems\SharedAssemblyInfo.cs = SolutionItems\SharedAssemblyInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBA1022-F64D-4049-9DC7-7DAAD4346374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBA1022-F64D-4049-9DC7-7DAAD4346374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBA1022-F64D-4049-9DC7-7DAAD4346374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBA1022-F64D-4049-9DC7-7DAAD4346374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89297802-3BDA-4F2E-897F-656E5E3C7597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89297802-3BDA-4F2E-897F-656E5E3C7597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89297802-3BDA-4F2E-897F-656E5E3C7597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89297802-3BDA-4F2E-897F-656E5E3C7597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A379AA5D-A011-4B6D-B217-B8788D83A5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A379AA5D-A011-4B6D-B217-B8788D83A5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A379AA5D-A011-4B6D-B217-B8788D83A5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A379AA5D-A011-4B6D-B217-B8788D83A5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA232BE-46E9-456A-96C6-20179F128758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA232BE-46E9-456A-96C6-20179F128758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA232BE-46E9-456A-96C6-20179F128758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA232BE-46E9-456A-96C6-20179F128758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE50C18-CAA4-4750-9B20-C08FB18C450B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE50C18-CAA4-4750-9B20-C08FB18C450B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE50C18-CAA4-4750-9B20-C08FB18C450B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE50C18-CAA4-4750-9B20-C08FB18C450B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
